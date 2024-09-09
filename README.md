@@ -1,4 +1,4 @@
-# Implementação do Algoritmo de Karatsuba
+# Implementação do Algoritmo de Karatsuba - por Ruan Necker
 
 ## Descrição
 

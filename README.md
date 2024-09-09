@@ -5,13 +5,13 @@
 Este programa implementa o Algoritmo de Karatsuba para multiplicação de números inteiros representados como strings binárias. O algoritmo é eficiente para multiplicar números grandes, utilizando a abordagem divide-and-conquer. Todos os cálculos são feitos bit a bit, sem o uso de tipos numéricos nativos para grandes inteiros, respeitando as restrições de usar exclusivamente números binários.
 Como Usar
 
-  Compilar o Programa:
-      Compile o arquivo Java com o seguinte comando:
+Compilar o Programa:
+    Compile o arquivo Java com o seguinte comando:
 
     javac Karatsuba.java
 
 Executar o Programa:
-(execute o programa passando dois números binários como argumentos pela linha de comando)
+    (execute o programa passando dois números binários como argumentos pela linha de comando)
 
     java Karatsuba 1010 1111
 

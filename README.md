@@ -18,7 +18,7 @@ Executar o Programa:
 
 O programa retornará o resultado da multiplicação binária:
 
-    Resultado da multiplicação: 1001111110100110110
+    Resultado da multiplicação: 10010110
 
 
 ## Meus Desafios e Decisões Tomadas
